@@ -1,0 +1,1 @@
+python3.6.6 + django2.1.2
